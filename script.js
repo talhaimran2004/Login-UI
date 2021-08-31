@@ -12,4 +12,5 @@ function login() {
 x.style.left = "8px";
 y.style.left = "500px";
 z.style.left = "0px";
+
 }
